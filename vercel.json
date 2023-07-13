@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://music.163.api.lori.es/"
+    }
+  ]
+}
